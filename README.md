@@ -1,5 +1,7 @@
-# Zephyr-7b-beta
-Zephyr is a series of language models that are trained to act as helpful assistants. Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO).
+# Openchat-3.5-0106
+OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning. This is a finetuned model from Mistral 7B.
+These models learn from mixed-quality data without preference labels, delivering exceptional performance on par with ChatGPT, even with a 7B model which can be run on a consumer GPU (e.g. RTX 3090).
+Despite the simple approach, they are committed to developing a high-performance, commercially viable, open-source large language model, and we continue to make significant strides toward this vision.
 
 ---
 ## Prerequisites
