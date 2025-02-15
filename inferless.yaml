@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: Openchat-3.5
+name: openchat-3.5
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
@@ -40,6 +40,6 @@ optional:
   input_file_name: input.json
   output_file_name: output.json
   runtime_file_name: inferless-runtime-config.yaml
-model_url: https://github.com/inferless/Openchat-3.5.git
+model_url: https://github.com/inferless/openchat-3.5.git
 provider: GITHUB
 io_schema: true
